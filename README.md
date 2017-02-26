@@ -1,2 +1,2 @@
 # Advance-Lane-Finding-Project
-This 
+This is the fourth project that is submitted towards completing Self Driving Car Nanodegree from Udacity. In this project, we develop some advance techniques such as undistortion, perceptive transform, sobel transform to detect the lane lines. To make the visualisation even more intuitive, the radius of curvature of the straight and curvy lanes and the displacement from the center of the lane are also computed. These parameters along with the detected lane lines are shown in the image.
